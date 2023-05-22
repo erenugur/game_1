@@ -38,5 +38,6 @@ def game():
     time.sleep(2)
     journey()
 
-
 game()
+print("To be continued...")
+
